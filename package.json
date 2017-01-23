@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/michael-lowe-nz/portfolio",
   "dependencies": {
+    "react-parallax": "^1.2.2",
     "redux": "^3.6.0"
   },
   "devDependencies": {
